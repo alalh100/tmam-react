@@ -20,8 +20,10 @@ class InfoComponent extends React.Component{
 
     render (){
         return(
-            <div>
-                <h1 className = "text-center" > Info </h1>
+
+            
+            <div className = "container">
+                <h1 className = "h1" > Info </h1>
 
                 <table className = "table table-striped">
                     <thead>
